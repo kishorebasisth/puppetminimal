@@ -1,0 +1,5 @@
+Uses the following upstream puppet modules:
+
+- stahnma/epel -- https://forge.puppetlabs.com/stahnma/epel
+- puppetlabs/tomcat -- https://forge.puppetlabs.com/puppetlabs/tomcat
+- jfryman/nginx -- https://forge.puppetlabs.com/jfryman/nginx
